@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Shruti Kesharwani",
+    "occupation": "web app developer ",
+    "description": "Front-end React Developer && Freelancer ",
+    "image": "shruti1.jpeg",
+    "bio": "My name is Shruti, I'm a front-end ReactJS Developer. Currently I'm a 5th semester college student and eagerly seeking opportunity to learn and grow ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "shr1999uti@gmail.com",
+    "phone": "+91 6283535844",
+    "address": {
+      "street": "Gh4 lovely professional university",
+      "city": "Jalandhar",
+      "state": "punjab",
+      "zip": "144411"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1aHZxTZq_62RD_RzSnjjPgcXgCduvm6BV/view?usp=sharing",
+    
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shruti.kesharwani.718",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shruti-kesh",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_shruti_kesh/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shrutilpu",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "React js is most popular front-end technology now a days and I am the person empowered with that.",
+    "work":[
+      {
+        "company":"none",
+        "title":"software engineer",
+        "years":3
+      }
+      ],
+    "education": [
+      {
+        "school": "Lovely professional University",
+        "degree": "bachelor of Computer Science and engineering",
+        "graduated": "may 2022",
+        "description": "Cgpa : 8.45"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "java 1.8",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      
+      {
+        "title": "Covid-Tracker",
+        "category": "Covid Tracker built with reacct js ",
+        "image": "covid-tracker1.png",
+        "url": "https://shrutilpu.github.io/Covid-Tracker/"
+      },
+      
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "shopoholic.png",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Emplyee management system",
+        "category": "Employee management system with CRUD functionality using java IO",
+        "image": "javac.png",
+        "url": "https://github.com/shrutilpu/JAVA-project"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shruti is an amazing hardworking dedicated person and a really well React.js developer.",
+        "user": "Harshpreet Kaur ( Project-Teammate)"
+      },
+      {
+        "text": " Shruti is really a good Web-app developer ,she might not have much experience but her work is great.",
+        "user": "Shaba Khatun (Project-Teammate)"
+      }
+    ]
+  }
+}
