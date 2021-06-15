@@ -1,46 +1,37 @@
 {
   "main": {
-    "name": "Shruti Kesharwani",
-    "occupation": "web app developer ",
-    "description": "Front-end React Developer && Freelancer ",
-    "image": "shruti1.jpeg",
-    "bio": "My name is Shruti, I'm a front-end ReactJS Developer. Currently I'm a 5th semester college student and eagerly seeking opportunity to learn and grow ",
+    "name": "Adwait Kesharwani",
+    "occupation": "Data Science & AI student",
+    "description": "Machine learning enthusiast & competitive programmer",
+    "image": "adwait.jpeg",
+    "bio": "A deterministic and hardworking student, looking for an opportunity to become a valuable resource in a reputed organisation to expand my learnings and knowledge, gain experience and effectively contribute my skills in productive manner.",
     "contactmessage": "Get in touch with me to receive further details.",
-    "email": "shr1999uti@gmail.com",
-    "phone": "+91 6283535844",
+    "email": "adwait1291@gmail.com",
+    "phone": "+91 9516178891",
     "address": {
-      "street": "Gh4 lovely professional university",
-      "city": "Jalandhar",
-      "state": "punjab",
-      "zip": "144411"
+      "street": "IIIT Dharwad",
+      "city": "Dharwad",
+      "state": "Karnataka",
+      "zip": "580001"
     },
-    "resumedownload": "https://drive.google.com/file/d/1aHZxTZq_62RD_RzSnjjPgcXgCduvm6BV/view?usp=sharing",
+    "resumedownload": "/",
     
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/shruti.kesharwani.718",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/shruti-kesh",
+        "url": "https://www.linkedin.com/in/adwait-kesharwani-b8847a1bb/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/_shruti_kesh/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/shrutilpu",
+        "url": "https://github.com/adwait1291",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "React js is most popular front-end technology now a days and I am the person empowered with that.",
+    "skillmessage": "Machine learning and AI is growing rapidly, doing wonders and I am the person empowered with that.",
     "work":[
       {
         "company":"none",
@@ -50,24 +41,36 @@
       ],
     "education": [
       {
-        "school": "Lovely professional University",
-        "degree": "bachelor of Computer Science and engineering",
-        "graduated": "may 2022",
-        "description": "Cgpa : 8.45"
+        "school": "Indian Institute of Information Technolgy, Dharwad",
+        "degree": "Bachelor of Data Science and AI",
+        "graduated": "may 2024",
+        "description": "CPI : 8.75"
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya, Sirmour",
+        "degree": "Senior Secondary",
+        "graduated": "may 2019",
+        "description": "percentage : 91%"
+      },
+      {
+        "school": "Jawahar Navodaya Vidyalaya, Sirmour",
+        "degree": "High School",
+        "graduated": "may 2017",
+        "description": "CGPA : 10.0"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Python",
         "level": "80%"
       },
       {
-        "name": "CSS",
-        "level": "60%"
+        "name": "Cpp",
+        "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "50%"
+        "name": "c",
+        "level": "70%"
       },
       {
         "name": "java 1.8",
@@ -84,41 +87,58 @@
     "projects": [
       
       {
-        "title": "Covid-Tracker",
-        "category": "Covid Tracker built with reacct js ",
-        "image": "covid-tracker1.png",
-        "url": "https://shrutilpu.github.io/Covid-Tracker/"
-      },
-      
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Amazon Clone",
-        "category": "Amazon Clone built with ReactJS",
-        "image": "shopoholic.png",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Emplyee management system",
-        "category": "Employee management system with CRUD functionality using java IO",
-        "image": "javac.png",
-        "url": "https://github.com/shrutilpu/JAVA-project"
+        "title": "Stock Prediction",
+        "category": "Machine Learning",
+        "image": "stockPrediction.jpg",
+        "url":" "
       }
+      
+      
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Shruti is an amazing hardworking dedicated person and a really well React.js developer.",
-        "user": "Harshpreet Kaur ( Project-Teammate)"
+        "company": "Google : jan 2021-march 2021 (ASSUMED)",
+        "description": "Machine learning Intern"
       },
       {
-        "text": " Shruti is really a good Web-app developer ,she might not have much experience but her work is great.",
-        "user": "Shaba Khatun (Project-Teammate)"
+        "company": "Infosys : april 2021- june 2021 (ASSUMED)",
+        "description": "Machine learning Intern"
+      }
+    ],
+    "Achievements": [
+      {
+        "company": "IITB-ISRO-AICTE MAPATHON : DEC 2020 ",
+        "description": "Winner"
+      },
+      {
+        "company": "Google Codejam : 2021",
+        "description": "Qualified for round 1"
+      },
+      {
+        "company": " Codechef : 2021",
+        "description": "Rating 1712(3 star)."
+      }
+    ],
+    "Honours": [
+      {
+        "company": "Intern of the month: march 2021 (ASSUMED)",
+        "description": "Awarded with the Intern of the month award during the internship at Infosys foundation."
+      }
+    ],
+    "Interests": [
+      {
+        "company": "Chess",
+        "description": "People who can play chess are considered intelligent :)"
+      },
+      {
+        "company": "Literature ",
+        "description": "...."
+      },
+      {
+        "company": "Gardening",
+        "description": "Gardens are capable of making a day perfect."
       }
     ]
   }

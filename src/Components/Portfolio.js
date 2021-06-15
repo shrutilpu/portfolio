@@ -19,6 +19,11 @@ class Portfolio extends Component {
               <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
           </div>
+          <div>
+            <h5>Stock prediction 2021</h5>
+            <p>language: python</p>
+            <span>Domain: Machine learning</span>
+          </div>
         </div>
       })
     }
