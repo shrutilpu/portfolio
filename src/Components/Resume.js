@@ -15,11 +15,29 @@ class Resume extends Component {
         var className = 'bar-expand '+skills.name.toLowerCase();
         return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
       })
+
+      var works = this.props.data.work.map((works)=><div>
+        <h3>{works.title}</h3>
+        <p className='info'>{works.company}</p>
+        <p>{works.years}</p>
+      </div>)
     }
 
     return (
       <section id="resume">
+<div className="row work">
+         <div className="three columns header-col">
+            <h1><span>Experience</span></h1>
+         </div>
 
+         <div className="nine columns main-col">
+            <div className="row item">
+               <div className="twelve columns">
+                 {works}
+               </div>
+            </div>
+         </div>
+      </div>
       <div className="row education">
          <div className="three columns header-col">
             <h1><span>Education</span></h1>
