@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Shruti Kesharwani",
-    "occupation": "web app developer ",
-    "description": "Front-end React Developer && Freelancer ",
+    "occupation": "Frontend software engineer ",
+    "description": "React.Js | Next.JS | JavaScript developer ",
     "image": "shruti1.jpeg",
-    "bio": "My name is Shruti, I'm a front-end ReactJS Developer. Currently I'm a 5th semester college student and eagerly seeking opportunity to learn and grow ",
+    "bio": "A Frontend Software engineer, with demonstrated proficiency in creating reusable, responsive, and interactive UI using React.Js, JavaScript along with Next.Js and Redux . Have a good understanding of core web development principles and technologies such as HTML and CSS and have experience in working in teams with agile driven environment.Actively looking for a role that allows me to grow my career as software developer. Open to networking and connecting with industry professionals.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "shr1999uti@gmail.com",
     "phone": "+91 6283535844",
@@ -14,7 +14,7 @@
       "state": "punjab",
       "zip": "144411"
     },
-    "resumedownload": "https://drive.google.com/file/d/1aHZxTZq_62RD_RzSnjjPgcXgCduvm6BV/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/u/2/d/1N7ooYvlh14vNA6fVWysDzPj0UVQz_okt/view?usp=sharing",
     
     "social": [
       {
@@ -58,31 +58,62 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "80%"
+        "name": "React.Js",
+        "level": "95%"
+      },
+      {
+        "name": "Next.Js",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
       },
       {
         "name": "CSS",
-        "level": "60%"
-      },
-      {
-        "name": "Git",
-        "level": "50%"
-      },
-      {
-        "name": "java 1.8",
-        "level": "60%"
+        "level": "95%"
       },
       {
         "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "95%"
+      },
+      {
+        "name": "TypeScript",
         "level": "80%"
       }
-     
+      
     ]
   },
   "portfolio": {
     "projects": [
-      
+      {
+        "title": "Job Board & Company Portal",
+        "category": "Job hunting & management platform",
+        "image": "jobs.png",
+        "url": "https://www.boardinfinity.com/jobs"
+      },
+      {
+        "title": "Website-V3",
+        "category": "Revamp of public pages for boardinfinity",
+        "image": "BI.png",
+        "url": "https://www.boardinfinity.com/"
+      },
+      {
+        "title": "Auth-Flow",
+        "category": "New login & signup pages + onboarding flow",
+        "image": "login.png",
+        "url": "https://www.boardinfinity.com/"
+      },
+      {
+        "title": "Career Discovery Test",
+        "category": "A pshycometric test to suggest top 3 career domain",
+        "image": "CG.png",
+        "url": "https://cg.boardinfinity.com/"
+      },
       {
         "title": "Covid-Tracker",
         "category": "Covid Tracker built with reacct js ",

@@ -69,7 +69,7 @@ const Contact = ({ data }) => {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+           <div id="message-warning"> Error Ocuured Please try again</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
@@ -79,12 +79,10 @@ const Contact = ({ data }) => {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4> Phone & Email</h4>
 					   <p className="address">
-						   {data?.name}<br />
-						   {data?.address.street} <br />
-						   {data?.address.city}, {data?.address.state} {data?.address.zip}<br />
-						   <span>{data?.phone}</span>
+						   <div>{data?.phone}</div>
+                     <span>{data?.email}</span>
 					   </p>
 				   </div>
 
